@@ -1,1 +1,0 @@
-cp -R "$(dirname $0)/" "$HOME/Library/Application Support/Steam/steamapps/common/Drawful 2/Drawful 2.app/Contents/Resources/macos"
